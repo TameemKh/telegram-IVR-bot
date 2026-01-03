@@ -299,6 +299,9 @@ async def buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
             text="👇 اختر من القائمة:",
             reply_markup=main_menu_keyboard()
         )
+    # ---- Remove the sent note ----
+    elif data == "delete_msg":
+        await query.message.delete()
 
 
 # =========================
@@ -319,7 +322,12 @@ async def handle_note_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
             from_chat_id=update.effective_chat.id,
             message_id=update.message.message_id
         )
-        await update.message.reply_text("✅ تم إرسال الملاحظة.")
+        await update.message.reply_text(
+    "✅ تم إرسال الملاحظة.",
+            reply_markup=InlineKeyboardMarkup([
+                [InlineKeyboardButton("🗑 حذف الرسالة", callback_data="delete_msg")]
+            ])
+)
         context.user_data["waiting_for_note"] = False
 
 
