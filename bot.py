@@ -26,6 +26,18 @@ ROADMAP_LINKS = {
     "cse_rm_game": "رابط مسار تطوير الألعاب (Game Developer):\n🔗https://qr1.me-qr.com/mobile/pdf/3f97d69d-378b-44a2-b8b5-662263da891c",
 }
 
+SUBJECT_LINKS = {
+    # هندسة الحاسوب – إجباري تخصص
+    "cse_dm_c++": "🔗 https://drive.google.com/drive/folders/1dfB641lJ4aW7OCMhiXzb9CbHD57ScRKY?hl=ar",
+    "cse_dm_s2": "🔗 https://drive.google.com/drive/folders/16mlcz7332pqsXWDcVM45Ez9Hi8KE2DWN?hl=ar",
+
+    # هندسة الحاسوب – اختياري تخصص
+    "cse_do_s1": "🔗 https://drive.google.com/....",
+
+    # مواد مشتركة (لا تخصص لها)
+    "shared_um_s1": "🔗 https://drive.google.com/....",
+}
+
 # =========================
 # Helpers
 # =========================
