@@ -143,20 +143,20 @@ async def buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     # ---- Subject lists (example implementation) ----
     elif data.endswith(("_um", "_cm", "_dm", "_do", "_uo")):
-    await query.edit_message_text(
-        text="📚 اختر مادة:",
-        reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton("مادة 1", callback_data=f"{data}_s1")],
-            [InlineKeyboardButton("مادة 2", callback_data=f"{data}_s2")],
-            [InlineKeyboardButton("🔙 رجوع", callback_data=data.split("_")[0] + "_subjects"),
-             InlineKeyboardButton("🏠 القائمة الرئيسية", callback_data="back_main")]
-        ])
-    )
+        await query.edit_message_text(
+            text="📚 اختر مادة:",
+            reply_markup=InlineKeyboardMarkup([
+                [InlineKeyboardButton("مادة 1", callback_data=f"{data}_s1")],
+                [InlineKeyboardButton("مادة 2", callback_data=f"{data}_s2")],
+                [InlineKeyboardButton("🔙 رجوع", callback_data=data.split("_")[0] + "_subjects"),
+                 InlineKeyboardButton("🏠 القائمة الرئيسية", callback_data="back_main")]
+            ])
+        )
     
     elif data in SUBJECT_LINKS:
-    await query.message.reply_text(
-        f"📂 مواد المادة:\n{SUBJECT_LINKS[data]}"
-    )
+        await query.message.reply_text(
+            f"📂 مواد المادة:\n{SUBJECT_LINKS[data]}"
+        )
 
     # ---- Roadmaps ----
     elif data == "cse_roadmaps":
