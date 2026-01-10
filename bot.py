@@ -27,10 +27,37 @@ ROADMAP_LINKS = {
 }
 
 SUBJECT_LINKS = { 
+
+    # هندسة الاتصالات – إجباري تخصص
+    "te_dm_mic": "🔗 كل ما يخص مادة متحكمات دقيقة:\nhttps://drive.google.com/drive/folders/15jlZjQKiTjJgMLO28f_h4u79IE5XYisr",
+    "te_dm_mcl": "🔗 كل ما يخص مادة مختبر متحكمات دقيقة:\nhttps://drive.google.com/drive/folders/1vdD5m2AxEr5W3QtIWu42SBdPf95wUND_?hl=ar",
+    "te_dm_dld": "🔗 كل ما يخص مادة تصميم الدوائر المنطقية:\nhttps://drive.google.com/drive/folders/1-BTgAZ72Kf5C-da2HDNujLNHXduwZPCI",
+    "te_dm_dll": "🔗 كل ما يخص مادة مختبر تصميم الدوائر المنطقية:\nhttps://drive.google.com/drive/folders/17wxfFU38kZMXB1bm5sWt4n_wArM92jeQ?hl=ar",
+    "te_dm_ele": "🔗 كل ما يخص مادة إلكترونيات:\nhttps://drive.google.com/drive/folders/1yqAMOJf0Ob7Ld5IYDuCKPDWM5kz6s5bb",
+    "te_dm_lel": "🔗 كل ما يخص مادة مختبر إلكترونيات:\nhttps://drive.google.com/drive/folders/1RBpecgw5nRWkugynmwB1sueYYIzjgtSn?hl=ar",
+    "te_dm_ctl": "🔗 كل ما يخص مادة أنظمة تحكم 1:\nhttps://drive.google.com/drive/folders/1LKP0BRQ019aOhT1Mu9AYZCxWa1wxMk7F?hl=ar",
+    "te_dm_lcl": "🔗 كل ما يخص مادة مختبر أنظمة تحكم 1:\nhttps://drive.google.com/drive/folders/1iJuSOKY6c1LQ8oZ15ncKiaVxEOGlCHst?hl=ar",
+    "te_dm_ec1": "🔗 كل ما يخص مادة دوائر كهربائية 1:\nhttps://drive.google.com/drive/folders/1zWr2kk4jznsqB2_VyDwUrlXAomX2ppJy",
+    "te_dm_lec": "🔗 كل ما يخص مادة مختبر دوائر كهربائية 1:\nhttps://drive.google.com/drive/folders/1LOn0kXufvISSPDu3X7BiMSY3u5xnppWh?hl=ar",
+    "te_dm_ec2": "🔗 كل ما يخص مادة دوائر كهربائية 2:\nhttps://drive.google.com/drive/folders/11zw1ss3cgU3fX5xE3pd1bMAthrvUsasa",
+    "te_dm_lc2": "🔗 كل ما يخص مادة مختبر دوائر كهربائية 2:\nhttps://drive.google.com/drive/folders/1exrz303ktSkMn26VpbyR-dwwBH0MlEiL?hl=ar",
+    "te_dm_dcm": "🔗 كل ما يخص مادة اتصالات رقمية:\nhttps://drive.google.com/drive/folders/1CCcNu0Y_DWD9lNSorrqAMnO6wfsNgWHV",
+    "te_dm_prb": "🔗 كل ما يخص مادة الاحتمالات والمتغيرات العشوائية:\nhttps://drive.google.com/drive/folders/1gahG9TeHuRpCmjHdUvLMnxktIxMDIcmV",
+    "te_dm_acm": "🔗 كل ما يخص مادة اتصالات تماثلية:\nhttps://drive.google.com/drive/folders/1ZCQDftVAUNN6pufMmFz2MniZkK2OJvTp",
+    "te_dm_sig": "🔗 كل ما يخص مادة الإشارات والنظم:\nhttps://drive.google.com/drive/folders/1SrP1dsUG0rzOQA3cpEc9zZx1FG9kMZd0",
+    "te_dm_emg": "🔗 كل ما يخص مادة كهرومغناطيسية:\nhttps://drive.google.com/drive/folders/11EZrizxPcbYY3xjGseDeOLLdFsIEunvM",
+    "te_dm_aec": "🔗 كل ما يخص مادة إلكترونيات متقدمة للاتصالات:\nhttps://drive.google.com/drive/folders/1SOL5I1Im3twNrfKieLj0Kc4TWB30jowj",
+    "te_dm_net": "🔗 كل ما يخص مادة شبكات حاسوب:\nhttps://drive.google.com/drive/folders/11xXsav473CKMGf36TZdIOj39StalkIAt",
+    "te_dm_prg": "🔗 كل ما يخص مادة برمجة حاسوب:\nhttps://drive.google.com/drive/folders/1dfB641lJ4aW7OCMhiXzb9CbHD57ScRKY?hl=ar",
+    "te_dm_aew": "🔗 كل ما يخص مادة الصوتيات والأمواج الكهرومغناطيسية:\nhttps://drive.google.com/drive/folders/1v7AWzoyTWJ5CADo-68oNMtp4hbXaCSfC",
+    "te_dm_ofs": "🔗 كل ما يخص مادة أنظمة الألياف الضوئية:\nhttps://drive.google.com/drive/folders/13IlmE6sMct-gAdZxoTmhlZJxNJGGBjXN",
+    "te_dm_ant": "🔗 كل ما يخص مادة الهوائيات وانتشار الأمواج:\nhttps://drive.google.com/drive/folders/1zRh06odBIGSNOkxwZwa7ONJ5JiAa-KJC",
+    "te_dm_spc": "🔗 كل ما يخص مادة المجسات ومحولات الطاقة:\nhttps://drive.google.com/drive/folders/1SEwhdFIG4jV-uISW0IB7BzgKjScHogwm",
+    "te_dm_num": "🔗 كل ما يخص مادة تحليل عددي:\nhttps://drive.google.com/drive/folders/1w59DQ7uRTLqCrKpJUE4-CLxTSsrESBOj",
+
+    
     # هندسة الحاسوب – إجباري تخصص
     "cse_dm_cpp": "🔗 كل ما يخص مادة برمجة الحاسوب:\nhttps://drive.google.com/drive/folders/1dfB641lJ4aW7OCMhiXzb9CbHD57ScRKY?hl=ar",
-    "cse_dm_java": "🔗 كل ما يخص مادة البرمجة الكينونية:\nhttps://drive.google.com/drive/folders/16mlcz7332pqsXWDcVM45Ez9Hi8KE2DWN?hl=ar",
-    "cse_dm_ds": "🔗 كل ما يخص مادة تركيب البيانات:\nhttps://drive.google.com/drive/folders/1MU9nY5LtI6_qzvvlIsM8p_JE9-OgYi7Z?hl=ar",
     "cse_dm_dslab": "🔗 كل ما يخص مادة مختبر تركيب البيانات:\nhttps://drive.google.com/drive/folders/1eMTzUX_1TvhkoWctA64IsHP7nokKtTVa?hl=ar",
     "cse_dm_dis": "🔗 كل ما يخص مادة تراكيب الحوسبة المتقطعة:\nhttps://drive.google.com/drive/folders/1r19VoO7Jn3th47Yvv02xqp_j_cRIANer?hl=ar",
     "cse_dm_alg": "🔗 كل ما يخص مادة الخوارزميات:\nhttps://drive.google.com/drive/folders/1HW8jr8rkYG1mCTu5Hw7V9bu6XrlMLj1K?hl=ar",
@@ -62,6 +89,13 @@ SUBJECT_LINKS = {
     "cse_dm_con": "🔗 كل ما يخص مادة كنترول 1:\nhttps://drive.google.com/drive/folders/1LKP0BRQ019aOhT1Mu9AYZCxWa1wxMk7F?hl=ar",
     "cse_dm_num": "🔗 كل ما يخص مادة تحليل عددي:\nhttps://drive.google.com/drive/folders/1w59DQ7uRTLqCrKpJUE4-CLxTSsrESBOj",
 
+    # هندسة الاتصالات – اختياري تخصص
+    "te_do_web": "🔗 كل ما يخص مادة تقنيات الانترنت وتطبيقات الويب:\nhttps://drive.google.com/drive/folders/1wz3InGxK3ZkUzeKVgACEB7k_lAP8Fyaa?hl=ar",
+    "te_do_oop": "🔗 كل ما يخص مادة البرمجة الكينونية:\nhttps://drive.google.com/drive/folders/16mlcz7332pqsXWDcVM45Ez9Hi8KE2DWN?hl=ar",
+    "te_do_db": "🔗 كل ما يخص مادة تركيب البيانات:\nhttps://drive.google.com/drive/folders/1MU9nY5LtI6_qzvvlIsM8p_JE9-OgYi7Z?hl=ar",
+    "te_do_swe": "🔗 كل ما يخص مادة هندسة البرمجيات:\nhttps://drive.google.com/drive/folders/1I6Qon3_jvBG4KoGtmwQ1qBabzuA1ztvW?hl=ar",
+    "te_do_cod": "🔗 كل ما يخص مادة نظرية المعلومات والترميز (كودينج):\nhttps://drive.google.com/drive/folders/1DPEIqsLX9Cq3kwE7I8wdk43oCT1tzvO4",
+    
     # هندسة الحاسوب – اختياري تخصص
     "cse_do_adb": "🔗 كل ما يخص مادة مواضيع متقدمة في قواعد البيانات:\nhttps://drive.google.com/drive/folders/1yz8LMm1E4ErufxXHsA2ZBXw29cThH8wN?usp=drive_link",
     "cse_do_fib": "🔗 كل ما يخص مادة أنظمة الألياف الضوئية:\nhttps://drive.google.com/drive/folders/13IlmE6sMct-gAdZxoTmhlZJxNJGGBjXN",
@@ -325,19 +359,34 @@ async def buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await query.edit_message_text(
             text="📚 اختر مادة:",
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("TE1", callback_data=f"{data}_S1")],
-                [InlineKeyboardButton("TE1", callback_data=f"{data}_s2")],
-                [InlineKeyboardButton("🔙 رجوع", callback_data=data.split("_")[0] + "_subjects"),
-                 InlineKeyboardButton("🏠 القائمة الرئيسية", callback_data="back_main")]
+                [InlineKeyboardButton("م. متحكمات دقيقة", callback_data=f"{data}_mcl"), InlineKeyboardButton("متحكمات دقيقة", callback_data=f"{data}_mic")],
+                [InlineKeyboardButton("م. تصميم الدوائر المنطقية", callback_data=f"{data}_dll"), InlineKeyboardButton("تصميم الدوائر المنطقية", callback_data=f"{data}_dld")],
+                [InlineKeyboardButton("م. إلكترونيات", callback_data=f"{data}_lel"), InlineKeyboardButton("إلكترونيات", callback_data=f"{data}_ele")],
+                [InlineKeyboardButton("م. أنظمة تحكم 1", callback_data=f"{data}_lcl"), InlineKeyboardButton("أنظمة تحكم 1", callback_data=f"{data}_ctl")],
+                [InlineKeyboardButton("م. دوائر كهربائية 1", callback_data=f"{data}_lec"), InlineKeyboardButton("دوائر كهربائية 1", callback_data=f"{data}_ec1")],
+                [InlineKeyboardButton("م. دوائر كهربائية 2", callback_data=f"{data}_lc2"), InlineKeyboardButton("دوائر كهربائية 2", callback_data=f"{data}_ec2")],
+                [InlineKeyboardButton("الاحتمالات والمتغيرات العشوائية", callback_data=f"{data}_prb")],
+                [InlineKeyboardButton("اتصالات تماثلية", callback_data=f"{data}_acm"), InlineKeyboardButton("اتصالات رقمية", callback_data=f"{data}_dcm")],
+                [InlineKeyboardButton("كهرومغناطيسية", callback_data=f"{data}_emg"), InlineKeyboardButton("الإشارات والنظم", callback_data=f"{data}_sig")],
+                [InlineKeyboardButton("إلكترونيات متقدمة للاتصالات", callback_data=f"{data}_aec")],
+                [InlineKeyboardButton("برمجة حاسوب", callback_data=f"{data}_prg"), InlineKeyboardButton("شبكات حاسوب", callback_data=f"{data}_net")],
+                [InlineKeyboardButton("الصوتيات والأمواج الكهرومغناطيسية", callback_data=f"{data}_aew")],
+                [InlineKeyboardButton("الهوائيات وانتشار الأمواج", callback_data=f"{data}_ant")],
+                [InlineKeyboardButton("المجسات ومحولات الطاقة", callback_data=f"{data}_spc")],
+                [InlineKeyboardButton("تحليل عددي", callback_data=f"{data}_num"), InlineKeyboardButton("أنظمة الألياف الضوئية", callback_data=f"{data}_ofs")],
+                [InlineKeyboardButton("🔙 رجوع", callback_data="te"),
+                     InlineKeyboardButton("🏠 القائمة الرئيسية", callback_data="back_main")]
             ])
         )
     elif data.endswith(("te_do")):
         await query.edit_message_text(
             text="📚 اختر مادة:",
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("TE2", callback_data=f"{data}_S1")],
-                [InlineKeyboardButton("TE2", callback_data=f"{data}_s2")],
-                [InlineKeyboardButton("🔙 رجوع", callback_data=data.split("_")[0] + "_subjects"),
+                [InlineKeyboardButton("تقنيات الإنترنت وتطبيقات الويب", callback_data=f"{data}_web")],
+                [InlineKeyboardButton("تركيب بيانات", callback_data=f"{data}_db"), InlineKeyboardButton("البرمجة الكينونية", callback_data=f"{data}_oop")],
+                [InlineKeyboardButton("هندسة البرمجيات", callback_data=f"{data}_swe")],
+                [InlineKeyboardButton("نظرية المعلومات والترميز (كودينج)", callback_data=f"{data}_cod")],
+                [InlineKeyboardButton("🔙 رجوع", callback_data="te"),
                  InlineKeyboardButton("🏠 القائمة الرئيسية", callback_data="back_main")]
             ])
         )
@@ -505,80 +554,36 @@ async def note_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("✍️ أرسل الملاحظة الآن:")
 
 
-async def handle_note(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    if not context.user_data.get("waiting_for_note"):
-        return
+async def handle_note_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if context.user_data.get("waiting_for_note"):
+        user = update.effective_user
+        note_text = update.message.text
+        username_text = f"@{user.username}" if user.username else "—"
+        full_message = (
+            "📩 ملاحظة جديدة\n\n"
+            f"📝 النص:\n{note_text}\n\n"
+            "──────────────\n"
+            f"👤 الاسم: {user.full_name}\n"
+            f"🆔 Telegram ID: {user.id}\n"
+             f"🔗 Username: {username_text}"
+        )
 
-    user = update.effective_user
-    caption = (
-        "📩 ملاحظة جديدة\n\n"
-        f"👤 الاسم: {user.full_name}\n"
-        f"🆔 Telegram ID: {user.id}\n"
-        f"🔗 Username: @{user.username}" if user.username else "—"
-    )
-
-    sent_msg = None
-
-    # -------- TEXT --------
-    if update.message.text:
         sent_msg = await context.bot.send_message(
             chat_id=TARGET_CHAT_ID,
-            text=f"{caption}\n\n📝 النص:\n{update.message.text}"
+            text=full_message
         )
 
-    # -------- PHOTO --------
-    elif update.message.photo:
-        sent_msg = await context.bot.send_photo(
-            chat_id=TARGET_CHAT_ID,
-            photo=update.message.photo[-1].file_id,
-            caption=caption
-        )
-
-    # -------- DOCUMENT --------
-    elif update.message.document:
-        sent_msg = await context.bot.send_document(
-            chat_id=TARGET_CHAT_ID,
-            document=update.message.document.file_id,
-            caption=caption
-        )
-
-    # -------- VOICE --------
-    elif update.message.voice:
-        sent_msg = await context.bot.send_voice(
-            chat_id=TARGET_CHAT_ID,
-            voice=update.message.voice.file_id,
-            caption=caption
-        )
-
-    # -------- AUDIO --------
-    elif update.message.audio:
-        sent_msg = await context.bot.send_audio(
-            chat_id=TARGET_CHAT_ID,
-            audio=update.message.audio.file_id,
-            caption=caption
-        )
-
-    # -------- VIDEO --------
-    elif update.message.video:
-        sent_msg = await context.bot.send_video(
-            chat_id=TARGET_CHAT_ID,
-            video=update.message.video.file_id,
-            caption=caption
-        )
-
-    # حفظ بيانات الحذف (كما عندك)
-    if sent_msg:
+        # حفظ بيانات الحذف
         context.user_data["last_note_msg_id"] = sent_msg.message_id
         context.user_data["note_time"] = time.time()
 
         await update.message.reply_text(
-            "✅ تم إرسال الملاحظة.",
+    "✅ تم إرسال الملاحظة.",
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton("🗑 حذف الملاحظة", callback_data="delete_note")]
             ])
-        )
-
-    context.user_data["waiting_for_note"] = False
+)
+        context.user_data["waiting_for_note"] = False
 
 
 # =========================
@@ -594,14 +599,7 @@ def main():
     app.add_handler(CommandHandler("note", note_command))
 
     app.add_handler(CallbackQueryHandler(buttons))
-    app.add_handler(
-        MessageHandler(
-            (filters.TEXT | filters.PHOTO | filters.Document.ALL | filters.VOICE | filters.AUDIO | filters.VIDEO)
-            & ~filters.COMMAND,
-            handle_note
-        )
-    )
-
+    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_note_text))
 
     print("Bot is running...")
     app.run_polling()
